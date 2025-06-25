@@ -154,3 +154,32 @@ class Cliente{
     }
 }
  
+/***
+ * run:
+Entrada vendida: ID 1, Precio: $25.0
+Entrada vendida: ID 2, Precio: $40.0
+Entrada vendida: ID 3, Precio: $17.0
+Entrada vendida: ID 4, Precio: $15.5
+Entrada encontrada: 
+ID: 1
+Comprador: Luis
+Zona: Principal
+Precio: $25.0
+Entrada encontrada: 
+ID: 2
+Comprador: Ana
+Zona: PalcoB
+Precio: $40.0
+Entrada encontrada: 
+ID: 3
+Comprador: Carlos
+Zona: Central
+Precio: $17.0
+Entrada encontrada: 
+ID: 4
+Comprador: Marta
+Zona: Lateral
+Precio: $15.5
+BUILD SUCCESSFUL (total time: 0 seconds)
+
+ */
